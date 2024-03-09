@@ -38,7 +38,7 @@ const mapping = {
   "8": "8",
   "9": "9",
   "0": "0",
-  " ": " "
+  " ": "  "
 };
 
 text.oninput = function() {
